@@ -34,6 +34,14 @@ Columns in the Dataset:
 * **Family History of Depression**: Whether the individual has a family history of depression.
 * **Chronic Medical Conditions**: Whether the individual has any chronic medical conditions.
 
+## Tools and Libraries Used
+
+* **Python**: The primary programming language utilized for data analysis and processing.
+* **Pandas**: Used extensively for data cleaning, manipulation, and handling missing values.
+* **Matplotlib & Seaborn**: Employed for creating visualizations, such as bar plots and heatmaps, to explore relationships in the dataset.
+* **NumPy**: Used for efficient numerical operations and calculations.
+* **SciPy**: Applied for conducting the Chi-Square test and other statistical analyses.
+
 ## Objective
 
 The main objectives of the analysis are:
