@@ -38,7 +38,7 @@ Columns in the Dataset:
 
 * **Python**: The primary programming language utilized for data analysis and processing.
 * **Pandas**: Used extensively for data cleaning, manipulation, and handling missing values.
-* **Matplotlib & Seaborn**: Employed for creating visualizations, such as bar plots and heatmaps, to explore relationships in the dataset.
+* **Matplotlib & Seaborn**: Employed for creating visualizations, such as bar plots, to explore relationships in the dataset.
 * **NumPy**: Used for efficient numerical operations and calculations.
 * **SciPy**: Applied for conducting the Chi-Square test and other statistical analyses.
 
